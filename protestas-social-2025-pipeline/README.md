@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Gestión de la base histórica de protestas sociales del Observatorio (1980–actualidad, ~25 700 registros) desde el ingreso a la institución: recojo manual inicial mediante formularios y, por iniciativa propia, automatización del recojo para diarios digitales mediante crawling y scraping.
+Gestión de la base histórica de protestas sociales del Observatorio (1980–actualidad, ~25 700 registros). Inicialmente el proceso se hacía por recojo manual  mediante formularios y, por iniciativa propia, automatización del recojo para diarios digitales mediante crawling y scraping.
 
 ## Resumen
 
